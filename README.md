@@ -1,2 +1,3 @@
-"# DSU_Attendance_App" 
-"#Greeshma C Shekar"
+# DSU_Attendance_App
+</br>
+## Greeshma C Shekar
