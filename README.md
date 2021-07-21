@@ -1,3 +1,3 @@
 # DSU_Attendance_App
 </br>
-## Greeshma C Shekar
+Author: Greeshma C Shekar
